@@ -4,7 +4,7 @@ Akan Name Generator
 ## Project Desciption
 
 ## Link to live site on GitHub Pages
-https://MMMuteti.github.io/Home
+https://MMMuteti.github.io/homejs
 
 ## Languages Used
 - HTML
