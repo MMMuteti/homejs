@@ -10,3 +10,10 @@ h1 {
 	padding-top: 20px;
 	align: centre;
 }
+
+.container{
+  width: 80%;
+  margin: auto;
+  align-items: centre;
+}
+
