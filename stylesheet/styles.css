@@ -5,15 +5,16 @@ body {
 }
 
 h1 {
-    color: #9B3D29;
+    color: #FFFFF;
 	font-size: 36px;
 	padding-top: 20px;
+	align: centre;
 }
 
 .container{
   width: 80%;
   margin: auto;
-  align: centre;
+  align-items: centre;
 }
 
 .
