@@ -3,3 +3,10 @@ body {
 	justify-content: centre;
 	align-items: centre;
 }
+
+h1 {
+    color: #FFFFF;
+	font-size: 36px;
+	padding-top: 20px;
+	align: centre;
+}
