@@ -1,15 +1,15 @@
-## Project Name
+##Project Name
 Akan Name Generator
 
-## Project Desciption
+##Project Desciption
 
-## Link to live site on GitHub Pages
+##Link to live site on GitHub Pages
 https://MMMuteti.github.io/homejs
 
-## Languages Used
+L##anguages Used
 - HTML
 - CSS
 - Javascript
 
-## Copyright and License Information
+##Copyright and License Information
 (c) Moses Mbugua - 2023
