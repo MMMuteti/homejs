@@ -1,3 +1,9 @@
+body {
+	font-family: 15px/1.5 Arial, Helvetica, sans-serif;
+	justify-content: centre;
+	align-items: centre;
+}
+  
 .background {  
   background-repeat:no-repeat;
   background-size:cover;
