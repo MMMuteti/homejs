@@ -18,8 +18,7 @@
 
 	</header>
      <p>“Wherever the year ahead takes you, I hope it is happy.”</p>
-     <p>-An African Proverb!!</p><br>
-
+     <p>-An African Proverb!!</p>
      <p>Wanna find out what your Akan name is depending on your birthday and gender? Generate that and see below!</p><br>
 
      <form class="myform" onsubmit="return getAkanName()">
@@ -34,9 +33,16 @@
       <label for="day-of-birth">
         Day of the Week:
         <input id="day-input" type="number" name="day-of-birth" placeholder="DD" value="" required>
+      </label><br>
+
+      <label for="gender">
+        <p>Choose Your Gender Here: </p>
+        Male
+        <input id="male-input" type="radio" name="gender" value="male" required>
+        Female
+        <input id="female-input" type="radio" name="gender" value="female" required>
+
       </label>
-      <br>
-    
     </form>
 
 
