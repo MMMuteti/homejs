@@ -1,5 +1,4 @@
-.bg {  
-  background-image:url(...images\background.jpg);
+.background {  
   background-repeat:no-repeat;
   background-size:cover;
   bottom:0;
