@@ -4,6 +4,16 @@ body {
 	align-items: centre;
 }
 
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+backgroung{
+	
+
+}
+
 h1 {
     color: #FFFFF;
 	font-size: 36px;
