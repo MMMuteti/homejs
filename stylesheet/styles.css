@@ -9,3 +9,19 @@
   right:0;
   top:0;
 }
+
+.content {
+  align-items:center;
+  bottom:0;
+  color:white;
+  display:flex;
+  flex-wrap:wrap;
+  font-family:sans-serif;
+  justify-content:center;
+  left:0;
+  padding:20vw;
+  position:fixed;
+  right:0;
+  text-align:center;
+  top:0;
+}
