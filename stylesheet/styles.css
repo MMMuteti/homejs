@@ -1,29 +1,11 @@
-body {
-	font-family: 15px/1.5 Arial, Helvetica, sans-serif;
-	justify-content: centre;
-	align-items: centre;
+.bg {  
+  background-image:url(...images\background.jpg);
+  background-repeat:no-repeat;
+  background-size:cover;
+  bottom:0;
+  filter:contrast(.7) brightness(.7);  
+  left:0;
+  position:fixed;
+  right:0;
+  top:0;
 }
-
-*{
-	margin: 0px;
-	padding: 0px;
-}
-
-background{
-
-
-}
-
-h1 {
-    color: #FFFFF;
-	font-size: 36px;
-	padding-top: 20px;
-	align: centre;
-}
-
-.container{
-  width: 80%;
-  margin: auto;
-  align-items: centre;
-}
-
