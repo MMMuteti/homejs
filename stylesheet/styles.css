@@ -1,7 +1,8 @@
 body {
 	font-family: 15px/1.5 Arial, Helvetica, sans-serif;
-	justify-content: centre;
-	align-items: centre;
+	padding: 0;
+	margin: 0;
+	background-color: #FFFFFF;
 }
   
 .background {  
