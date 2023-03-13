@@ -9,13 +9,14 @@ body {
 	width: 90%;
 	margin: auto;
 	overflow: hidden;
-	padding: 0;
+	padding: 70;
 }
 
 header{
-	background: #00008B;
+	background: #D6573C;
 	color: #FFFFFF;
 	padding-top: 30px;
 	min-height: 70px;
 	border-bottom: #FFA500 3px solid;
 }
+
