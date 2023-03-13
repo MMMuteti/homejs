@@ -6,10 +6,14 @@ The web application takes a user's birthday and calculates the day of the week t
 
 Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born. Here are Ghanian day names.
 
+##Author
+
+Moses Muteti, Mr.
+
 ##Link to live site on GitHub Pages
 https://MMMuteti.github.io/homejs
 
-L##anguages Used
+##Languages Used
 - HTML
 - CSS
 - Javascript
