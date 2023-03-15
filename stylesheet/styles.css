@@ -4,8 +4,17 @@ body {
 	margin: 0;
 	background-color: #FFFFFF;
   text-align: center;
+  background-image: url("../images/background.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
 }
-  
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
 .container{
 	width: 90%;
 	margin: auto;
@@ -14,7 +23,7 @@ body {
 }
 
 header{
-	background: #D6573C;
+	background: #6B3226;
 	color: #FFFFFF;
 	padding-top: 30px;
 	min-height: 70px;
