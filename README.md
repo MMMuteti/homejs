@@ -1,4 +1,4 @@
-##Project Name
+#Project Name
 
 Akan Name Generator
 
